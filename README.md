@@ -6,7 +6,7 @@ Particle dissipating effect created using [Flutter](https://flutter.dev/), [Flut
 > 
 > **FlutterFlow project:** https://app.flutterflow.io/project/particles-demo-vd2vhs
 
-
+https://user-images.githubusercontent.com/43280874/196859599-aa01e922-86fc-47fe-957c-79d667006764.mov
 
 The `ParticleCanvas` is a FlutterFlow [Custom Widget](https://docs.flutterflow.io/customizing-your-app/custom-widgets), the color selector and the property editor are all built inside FlutterFlow.
 
