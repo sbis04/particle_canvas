@@ -2,7 +2,7 @@
 
 Particle dissipating effect created using [Flutter](https://flutter.dev/), [FlutterFlow](https://flutterflow.io/), and some math!
 
-> Try of the [**DEMO**](https://app.flutterflow.io/run/4JpKoK5qLbS3TuZpU0Fn)! *(But it's recommended to run it as a desktop or mobile app as it's not that optimized so on web might be a little jarring)*
+> Try out the [**DEMO**](https://app.flutterflow.io/run/4JpKoK5qLbS3TuZpU0Fn)! *(But it's recommended to run it as a desktop or mobile app as it's not that optimized, so on web might be a little jarring)*
 > 
 > **FlutterFlow project:** https://app.flutterflow.io/project/particles-demo-vd2vhs
 
